@@ -156,58 +156,7 @@ Highlights:
 
 ---
 
-# 🚀 Featured Projects
 
-## 🏥 Medivault Healthcare Retail Operations Platform
-
-```yaml
-Tech Stack:
-  - Python
-  - FastAPI
-  - PostgreSQL
-  - Apache Kafka
-  - React
-
-Features:
-  - 8 independently deployable microservices
-  - POS billing system
-  - Inventory management
-  - Purchase management
-  - Analytics dashboard
-  - Multi-store support across 38+ stores
-```
-
----
-
-## 🎮 Sudoku Game Website
-
-```yaml
-Features:
-  - Multiple difficulty levels
-  - Real-time validation
-  - Theme toggling
-  - Interactive UI
-  - Dynamic game controls
-
-Built Using:
-  - React.js
-  - HTML
-  - CSS
-  - JavaScript
-```
-
----
-
-## 🚁 GPS Enabled Quadcopter Project
-
-```yaml
-Highlights:
-  - GPS-enabled navigation
-  - IMU integration
-  - Obstacle avoidance
-  - FPV video streaming
-  - Real-time flight control
-```
 
 ---
 
