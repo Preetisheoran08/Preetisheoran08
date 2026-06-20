@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+Software+Engineer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;1500%2B+DSA+Problems+Solved;System+Design+%7C+Microservices+%7C+Clean+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+Software+Engineer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;System+Design+%7C+Microservices+%7C+Clean+Architecture)](https://git.io/typing-svg)
 
 </div>
 
@@ -72,9 +72,6 @@ Achievements:
 <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
-<a href="https://codeforces.com/" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
 
 </div>
 
